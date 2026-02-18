@@ -1,2 +1,1 @@
-# ProgrammingWithAIProjects
-# ProgrammingWithAIProjects
+# Programming With AI Course Projects
